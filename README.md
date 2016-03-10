@@ -1,6 +1,6 @@
 # google-cloud-storage
 
-[![Latest Version on Packagist][ico-version]][link-packagist]
+[![Latest Version on Packagist][ico-version]][link-packagist](https://packagist.org/packages/ianvdmerwe/google-cloud-storage)
 [![Software License][ico-license]](LICENSE.md)
 [![Build Status][ico-travis]][link-travis]
 [![Coverage Status][ico-scrutinizer]][link-scrutinizer]
