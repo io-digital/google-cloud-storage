@@ -1,5 +1,5 @@
 {
-    "name": "Laravel Google Cloud Storage Handler",
+    "name": "ianvdmerwe/google-cloud-storage",
     "type": "library",
     "description": "Google Cloud Storage Package",
     "keywords": [
