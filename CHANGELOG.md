@@ -1,13 +1,13 @@
 # Changelog
 
-All Notable changes to `:package_name` will be documented in this file.
+All Notable changes to `Laravel Google Cloud Storage Handler` will be documented in this file.
 
 Updates should follow the [Keep a CHANGELOG](http://keepachangelog.com/) principles.
 
-## NEXT - YYYY-MM-DD
+## ADDED - 2016-03-10
 
 ### Added
-- Nothing
+- Added base functionality of the google storage handler
 
 ### Deprecated
 - Nothing
