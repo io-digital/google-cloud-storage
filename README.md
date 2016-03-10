@@ -1,6 +1,6 @@
 # google-cloud-storage
 
-[![Latest Version on Packagist][ico-version]][link-packagist]
+[![Packagist](https://img.shields.io/packagist/v/ianvdmerwe/google-cloud-storage.svg)]()
 [![Software License][ico-license]](LICENSE.md)
 [![Build Status][ico-travis]][link-travis]
 [![Coverage Status][ico-scrutinizer]][link-scrutinizer]
