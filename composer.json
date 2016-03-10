@@ -1,0 +1,48 @@
+{
+    "name": "google-cloud-storage",
+    "type": "library",
+    "description": "Google Cloud Storage Package",
+    "keywords": [
+        "io-digital",
+        "google-cloud-storage",
+        "laravel"
+    ],
+    "homepage": "https://github.com/ianvdmerwe/google-cloud-storage",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ian van der Merwe",
+            "email": "ian@io.co.za",
+            "homepage": "http://io.co.za",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "illuminate/support": "~5.1",
+        "php" : "~5.5|~7.0",
+        "google/apiclient": "^2.0.0@RC"
+    },
+    "require-dev": {
+        "phpunit/phpunit" : "4.*",
+        "scrutinizer/ocular": "~1.1",
+        "squizlabs/php_codesniffer": "~2.3"
+    },
+    "autoload": {
+        "psr-4": {
+          "IoDigital\\GoogleCloudStorage\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+          "IoDigital\\GoogleCloudStorage\\": "tests"
+        }
+    },
+    "scripts": {
+        "test": "phpunit"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
