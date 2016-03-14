@@ -1,11 +1,10 @@
 # google-cloud-storage
 
-[![Latest Version on Packagist][ico-version]][link-packagist]
+[![Packagist](https://img.shields.io/packagist/v/ianvdmerwe/google-cloud-storage.svg)]()
 [![Software License][ico-license]](LICENSE.md)
-[![Build Status][ico-travis]][link-travis]
-[![Coverage Status][ico-scrutinizer]][link-scrutinizer]
-[![Quality Score][ico-code-quality]][link-code-quality]
-[![Total Downloads][ico-downloads]][link-downloads]
+[![Travis](https://img.shields.io/travis/ianvdmerwe/google-cloud-storage.svg)]()
+[![Scrutinizer](https://img.shields.io/scrutinizer/g/ianvdmerwe/google-cloud-storage.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/ianvdmerwe/google-cloud-storage/total.svg)]()
 
 This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what
 PSRs you support to avoid any confusion with users and contributors.
