@@ -12,7 +12,7 @@ PSRs you support to avoid any confusion with users and contributors.
 ## Install
 
 ``` bash
-$ composer require ianvdmerwe/google-cloud-storage
+$ composer require io-digital/google-cloud-storage
 
 $ php artisan vendor:publish
 ```
