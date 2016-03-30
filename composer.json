@@ -1,5 +1,5 @@
 {
-    "name": "ianvdmerwe/google-cloud-storage",
+    "name": "io-digital/google-cloud-storage",
     "type": "library",
     "description": "Google Cloud Storage Package",
     "keywords": [
@@ -7,7 +7,7 @@
         "google-cloud-storage",
         "laravel"
     ],
-    "homepage": "https://github.com/ianvdmerwe/google-cloud-storage",
+    "homepage": "https://bitbucket.org/io-digital/google-cloud-storage.git",
     "license": "MIT",
     "authors": [
         {
