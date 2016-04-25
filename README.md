@@ -1,13 +1,12 @@
 # google-cloud-storage
 
-[![Packagist](https://img.shields.io/packagist/v/ianvdmerwe/google-cloud-storage.svg)]()
+[![Packagist](https://img.shields.io/packagist/v/io-digital/google-cloud-storage.svg)]()
 [![Software License][ico-license]](LICENSE.md)
-[![Travis](https://img.shields.io/travis/ianvdmerwe/google-cloud-storage.svg)]()
-[![Scrutinizer](https://img.shields.io/scrutinizer/g/ianvdmerwe/google-cloud-storage.svg)]()
-[![Github All Releases](https://img.shields.io/github/downloads/ianvdmerwe/google-cloud-storage/total.svg)]()
+[![Travis](https://img.shields.io/travis/io-digital/google-cloud-storage.svg)]()
+[![Scrutinizer](https://img.shields.io/scrutinizer/g/io-digital/google-cloud-storage.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/io-digital/google-cloud-storage/total.svg)]()
 
-This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what
-PSRs you support to avoid any confusion with users and contributors.
+Library for Laravel to use the Google Cloud Storage Methods
 
 ## Install
 
@@ -48,11 +47,11 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) and [CONDUCT](CONDUCT.md) for details
 
 ## Security
 
-If you discover any security related issues, please email ian@io.co.za instead of using the issue tracker.
+If you discover any security related issues, please reach us via [email](devops@io.co.za) instead of using the issue tracker.
 
 ## Credits
 
-- [Ian van der Merwe][https://github.com/ianvdmerwe]
+- [Ian van der Merwe](https://github.com/ianvdmerwe)
 - [All Contributors][link-contributors]
 
 ## License
